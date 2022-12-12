@@ -1,0 +1,2473 @@
+{
+  "version": "0.4.0",
+  "createTimestamp": 1670157988049,
+  "modifyTimestamp": 1670157988049,
+  "uri": "file:/home/phm/Developpement/QuPath_Projects/Foci/project.qpproj",
+  "lastID": 285,
+  "images": [
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420000.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420000.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 242,
+      "randomizedName": "8442d6d4-265e-4658-be17-b5e097ccba3b",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420000.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420001.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420001.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 243,
+      "randomizedName": "3ec9aeb2-4954-4dbb-9fe6-3873a0533886",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420001.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420002.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420002.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 244,
+      "randomizedName": "f0d2cdc1-4f9e-41b1-bdf0-699643ea5168",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420002.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420003.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420003.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 245,
+      "randomizedName": "90631a2b-e7eb-4bf2-b562-694a4a78404b",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420003.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420004.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420004.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 246,
+      "randomizedName": "af75fa04-e473-47f4-af80-bde9a30b00aa",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420004.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420005.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420005.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 247,
+      "randomizedName": "9bc0e7cd-2e0b-40fe-8199-31d65dd1beed",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420005.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420006.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420006.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 248,
+      "randomizedName": "8bd52c15-5288-46cf-b100-9ac6e52f9826",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420006.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420007.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420007.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 249,
+      "randomizedName": "edf2cd57-c374-4245-8747-d0cd6aacb37c",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420007.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420008.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420008.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 250,
+      "randomizedName": "f423571f-8a5d-4520-850c-8577a37e19fd",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420008.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420009.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420009.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 251,
+      "randomizedName": "3444ec89-c6e7-458e-8ed2-505ad7aefc37",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420009.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420010.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420010.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 252,
+      "randomizedName": "df6ee837-df11-4d29-b9b2-113bb42842df",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420010.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420011.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420011.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 253,
+      "randomizedName": "ad5e5cdb-ff1e-4f8b-84fe-e6e93e016ad0",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420011.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420012.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420012.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 254,
+      "randomizedName": "b3f1d540-5f65-4d77-92f4-8cdd88e0a832",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420012.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420013.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420013.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 255,
+      "randomizedName": "511d4ca7-979d-4ab7-8cdf-5d993c7b1777",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420013.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420014.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420014.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 256,
+      "randomizedName": "adf511c5-e5d0-4a0f-8900-9bf9e30e3d44",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420014.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420015.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420015.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 257,
+      "randomizedName": "d4010178-5fd6-4177-b4f5-3211b2a90d96",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420015.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420016.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420016.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 258,
+      "randomizedName": "a3feff9f-2466-4c77-b78a-a613a6d062da",
+      "imageName": "381_P14_C1ql1-570_Cbln1-633_GFP-520_n2_1_w4CSU-6420016.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420000.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420000.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 259,
+      "randomizedName": "255c1b04-97b1-466d-bd89-09934b34b3be",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420000.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420001.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420001.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 260,
+      "randomizedName": "260d6473-5d1d-4b0a-930b-083a169599a1",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420001.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420002.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420002.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 261,
+      "randomizedName": "5cc1507f-987c-456e-b5ea-4378b992af35",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420002.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420003.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420003.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 262,
+      "randomizedName": "7760ffe1-d08e-45ca-81ae-2ff02b261cbb",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420003.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420004.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420004.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 263,
+      "randomizedName": "6827e560-6415-4a79-ab3f-39637010d91f",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420004.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420005.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420005.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 264,
+      "randomizedName": "bb43dd22-9591-431e-9fab-9ec5d76adb00",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420005.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420006.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420006.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 265,
+      "randomizedName": "e22fc105-2e93-4c7c-bf51-b2ba1e71bc2a",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420006.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420007.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420007.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 266,
+      "randomizedName": "9bb0330f-dd07-4e8c-9d21-7c8e79c3bafb",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420007.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420008.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420008.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 267,
+      "randomizedName": "41a435b2-1ba6-42aa-a71d-36d27a06b2ff",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420008.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420009.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420009.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 268,
+      "randomizedName": "67896cc8-8cb6-42b2-acdf-35585a686a22",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420009.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420010.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420010.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 269,
+      "randomizedName": "b139d491-24dc-44b8-aed3-0273d500a6c2",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420010.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420011.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420011.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 270,
+      "randomizedName": "4067438c-c4aa-4d0d-a56e-0de52395f328",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420011.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420012.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420012.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 271,
+      "randomizedName": "795b5050-1f59-4dfd-accb-d49c6cdfa1d7",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n1_1_w4CSU-6420012.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420000.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420000.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 272,
+      "randomizedName": "5a33f4de-dd4b-4085-b620-893cd37f672d",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420000.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420001.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420001.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 273,
+      "randomizedName": "8b92f1b3-598c-4851-b2bd-5c96b3d6b1d7",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420001.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420002.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420002.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 274,
+      "randomizedName": "0e8349dc-898e-46c8-9ab3-7ae0cb44c58c",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420002.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420003.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420003.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 275,
+      "randomizedName": "04a36d5a-3672-4e13-b782-3141c2b8ba0a",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420003.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420004.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420004.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 276,
+      "randomizedName": "c8da3ab9-0ab2-4924-8e6a-70979d13d4dc",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420004.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420005.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420005.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 277,
+      "randomizedName": "c84131c7-dc6f-4146-958e-c4b2ed26a3e3",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420005.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420006.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420006.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 278,
+      "randomizedName": "a79c42ea-ab91-41e5-828a-71e1a23f9aa7",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420006.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420007.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420007.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 279,
+      "randomizedName": "241a5705-840c-4bb2-8a77-7831b4a4115f",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420007.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420008.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420008.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 280,
+      "randomizedName": "6f8b3df2-a908-46e9-8d3e-3f239963b600",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420008.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420009.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420009.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 281,
+      "randomizedName": "f4c62241-c862-4aae-8334-c3b4cf05930a",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420009.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420010.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420010.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 282,
+      "randomizedName": "4b7c8b0b-b158-424a-af58-6598d2d0d9ac",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420010.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420011.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420011.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 283,
+      "randomizedName": "899783fa-a7ff-4e6c-bdf0-4c33f9836409",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420011.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420012.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420012.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 284,
+      "randomizedName": "b939a053-56c3-4787-9f84-ba23fe58d5ad",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420012.tif",
+      "metadata": {}
+    },
+    {
+      "serverBuilder": {
+        "builderType": "uri",
+        "providerClassName": "qupath.lib.images.servers.bioformats.BioFormatsServerBuilder",
+        "uri": "file:/home/phm/Images/TrainingFoci/RNA/Images/382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420013.tif",
+        "args": [
+          "--series",
+          "0"
+        ],
+        "metadata": {
+          "name": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420013.tif",
+          "width": 2048,
+          "height": 2048,
+          "sizeZ": 1,
+          "sizeT": 1,
+          "channelType": "DEFAULT",
+          "isRGB": false,
+          "pixelType": "UINT16",
+          "levels": [
+            {
+              "downsample": 1.0,
+              "width": 2048,
+              "height": 2048
+            }
+          ],
+          "channels": [
+            {
+              "name": "Channel 1",
+              "color": -1
+            }
+          ],
+          "pixelCalibration": {
+            "pixelWidth": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "pixelHeight": {
+              "value": 1.0,
+              "unit": "px"
+            },
+            "zSpacing": {
+              "value": 1.0,
+              "unit": "z-slice"
+            },
+            "timeUnit": "SECONDS",
+            "timepoints": []
+          },
+          "preferredTileWidth": 2048,
+          "preferredTileHeight": 2048
+        }
+      },
+      "entryID": 285,
+      "randomizedName": "5ae0b9cb-f67f-4188-b6d6-124a121dda02",
+      "imageName": "382_P14_C1ql1-570_Cbln1-633_GFP-520_n2_2_w4CSU-6420013.tif",
+      "metadata": {}
+    }
+  ]
+}
